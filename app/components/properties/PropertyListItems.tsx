@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const PropertyListItem = () => {
   return (
-    <div className="cursor-pointer mt-10">
+    <div className="cursor-pointer">
       <div className="relative overflow-hidden aspect-square rounded-xl">
         <Image 
           fill

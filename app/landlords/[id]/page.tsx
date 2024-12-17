@@ -4,7 +4,7 @@ import PropertyList from "@/app/components/properties/PropertyList";
 
 const LandlordDetailPage = () => {
   return (
-    <main className="max-w-[1500px] mx-auto px-6 pb-6 mt-10">
+    <main className="max-w-[1500px] mx-auto px-6 pb-6">
       <div className="gird grid-cols-1 md:grid-cols-4 lg:grid-cols-5 gap-4">
         <aside className="col-span-1 mb-4">
           <div className="flex flex-col items-center p-5 rounded-xl border border-gray-300 shadow-sm">
